@@ -1,0 +1,7 @@
+jupyterlab
+six==1.13.0
+pandas_gbq
+xlwt
+openpyxl
+click
+nose
